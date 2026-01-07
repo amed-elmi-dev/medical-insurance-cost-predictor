@@ -1,5 +1,7 @@
 # React + Vite
 
+> **Note:** This frontend is part of the Medical Insurance Cost Predictor repository. See the top-level `README.md` at the repository root for full project documentation.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
